@@ -1,5 +1,5 @@
 function calculateTotal() {
-    const price = 15;
+    const price = 15000;
     const quantity = document.getElementById('quantity').value;
     const total = price * quantity;
     
